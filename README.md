@@ -16,7 +16,7 @@ FileOrbit 是一个 macOS 本地文件整理原型：在 Finder 拖动文件时�
 需要 macOS 13 或更新版本，以及 Xcode Command Line Tools。项目当前运行版使用 Objective-C 和 macOS 系统框架，无第三方包依赖。
 
 ```bash
-./build-app.sh
+zsh build-app.sh
 open dist/FileOrbit.app
 ```
 
